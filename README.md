@@ -7,7 +7,7 @@ It fetches and displays real-time weather data for any city using the **OpenWeat
 
 ## 🔗 Live Demo
 
-👉[Click here to view the live site]
+👉 https://saraz1234.github.io/Weather-API/
 ---
 
 ## 🧠 About the Project
