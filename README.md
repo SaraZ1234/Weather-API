@@ -44,5 +44,4 @@ The app uses vanilla JavaScript to make API requests and update the DOM with the
 
 ---
 
-## 📁 Folder Structure
 
